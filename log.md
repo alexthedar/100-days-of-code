@@ -12,11 +12,11 @@
 ### Day 2: Jan 18, 2017
 
 
-**Today's Progress**: 
+**Today's Progress**: Finished learning Bourbon, Neat, Bitters.
 
-**Thoughts**: 
+**Thoughts**: Bourbon, Neat and Bitters combined make for a powerful CSS framework that can greatly ease site creation.  Need to update personal site to incorporate these lessons but not ready yet.  Still gestating.
 
-**Link(s) to work**: 
+**Link(s) to work**: N/A
 
 
 ### Day 3: Jan 19, 2017
