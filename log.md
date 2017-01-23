@@ -19,11 +19,11 @@
 **Link(s) to work**: N/A
 
 
-### Day 3: Jan 19, 2017
+### Day 3: Jan 22, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Began rebuilding personal site
 
-**Thoughts** 
+**Thoughts** Undecided if I want to use Bourbon ,neat and bitters or just susy and build rest myself.  Redefining all the colors in bourbon for material might end up being tedious.  For now ready with bourbon.  Gonna check out susy now.
 
-**Link(s) to work**
+**Link(s) to work**  [Github Repo] (https://github.com/alexthedar/neoalex)
 
