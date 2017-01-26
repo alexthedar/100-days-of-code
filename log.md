@@ -27,3 +27,19 @@
 
 **Link(s) to work**  [Github Repo] (https://github.com/alexthedar/neoalex)
 
+### Day 4: Jan 23, 2017
+
+**Today's Progress**: Review and refresh of Angular 1
+
+**Thoughts** Needed to do a refresh of angualr 1
+
+**Link(s) to work**  
+
+### Day 5: Jan 24, 2017
+
+**Today's Progress**: continue refersh of ang 1
+
+**Thoughts** Forgot how powerful and simple angular is compared to React.  Able to get something up and running without having to learn 6 new framework, 3 new languages and a new coding paradigm.
+
+**Link(s) to work** 
+
