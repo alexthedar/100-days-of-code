@@ -43,3 +43,20 @@
 
 **Link(s) to work** 
 
+
+### Day 6: Jan 25, 2017
+
+**Today's Progress**: continue refersh of ang 1
+
+**Thoughts** forgot how annoying debugging JS could be.
+
+**Link(s) to work** 
+
+### Day 7: Jan 26, 2017
+
+**Today's Progress**: continue refersh of ang 1
+
+**Thoughts** new firebase created lots of problems that I was ultimately unable to solve.
+
+**Link(s) to work** 
+
