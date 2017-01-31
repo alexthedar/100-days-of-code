@@ -60,7 +60,7 @@
 
 **Link(s) to work** 
 
-### Day 8: Jan 27, 2017
+### Day 8: Jan 28, 2017
 
 **Today's Progress**: continue refersh of ang 1
 
@@ -68,10 +68,18 @@
 
 **Link(s) to work** 
 
-### Day 9: Jan 28, 2017
+### Day 9: Jan 29, 2017
 
 **Today's Progress**: Started deeper dive into Node
 
 **Thoughts** Lots of searching for stuff and finally found somethign that has up to date information.
+
+**Link(s) to work** 
+
+### Day 10: Jan 30, 2017
+
+**Today's Progress**: Cont. Node
+
+**Thoughts** JS is truly a beautiful language to me.  I know peopel hate lots of things about it and I get frsutrated with it a lot as well but sometimes I love the flow of it.
 
 **Link(s) to work** 
