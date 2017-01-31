@@ -82,4 +82,4 @@
 
 **Thoughts** JS is truly a beautiful language to me.  I know peopel hate lots of things about it and I get frsutrated with it a lot as well but sometimes I love the flow of it.
 
-**Link(s) to work** 
+**Link(s) to work** https://github.com/alexthedar/nodenote
