@@ -91,3 +91,15 @@
 **Thoughts** I was given a lot of time to do this code challenge so I am exploring if I can learn Vue as I do the code challenge.
 
 **Link(s) to work** 
+
+### Day 12 - 24: Feb 1 - 13, 2017
+
+**Progress**: Finished two code challenges.  One was a layout and the other make a photo viewing app.
+
+**Thoughts** Learned and used VueJS to create both apps.  I like it a lot.  Mush easier than using React or Angular IMO.  I also like how the html, js and css are always in the same file.  Makes it easy to debug.
+Need to do more Sass and get more used to it.  Vue with sass would be powerful i think but had trouble getting webpack to decode the sass.
+
+**Link(s) to work** 
+Photo app: https://murmuring-caverns-31595.herokuapp.com/
+Photo app github: https://github.com/alexthedar/Photo-Vue-Api
+Layout app: https://github.com/alexthedar/Responsive-Layout-Vue-Css
